@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="https://github.com/ESHAN-QUEEN-ESHU-MD/QUEEN-ESHU-MD-V1">
-    <img src="https://i.ibb.co/TgGwnns/20241214-065324.jpg"  width="700px">
+    <img src="https://i.ibb.co/207w6nDw/20240904-162021.jpg"  width="700px">
 </a> </p>
 </div>
  
